@@ -70,7 +70,7 @@ cloudBlockPrecipitationDistance = 32
 	flipIdList = false
 	#If true, the uncrafting table will also be allowed to uncraft shapeless recipes.
 	#The table was originally intended to only take shaped recipes, but this option remains for people who wish to keep the functionality.
-	enableShapelessCrafting = false
+	enableShapelessCrafting = true
 	#Disable the uncrafting function of the uncrafting table. Recommended as a last resort if there's too many things to change about its behavior.
 	disableUncrafting = false
 
